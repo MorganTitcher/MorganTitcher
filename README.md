@@ -2,7 +2,9 @@
 
 # Welcome to Morgan's GitHub Profile 👋
 
+<!--
 ![Profile Banner](https://your-image-url.com/banner.png)
+-->
 
 Hi! I'm Morgan, a passionate self-starter with a focus on creating/building things of lasting value; this has included a vast array of subject areas from storytelling in Film/TV, content creation for bespoke commercial video production, performance creative at a director-level for multiple marketing agencies, and the creation of various tools, programs, and utilities in Python, Mojo, C, Javascript, R, and more. I am particularly passionate about artificial intelligence and machine learning, especially where it intersects with novel aspects of human cognition such as creativity.
 
