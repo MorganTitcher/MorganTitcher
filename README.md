@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Welcome to Morgan's GitHub Profile 👋
 
 <!--
