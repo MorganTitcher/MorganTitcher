@@ -15,9 +15,9 @@ Hi! I'm Morgan, a passionate self-starter with a focus on creating/building thin
 
 ## 📈 Skills
 
-- **Programming Languages:** Python, Mojo, JavaScript, R, SQL
-- **Frameworks & Libraries:** TensorFlow, PyTorch, HuggingFace, OpenCV, Streamlit, Scenic
-- **Tools:** Git, Docker, Jupyter, Visual Studio Code
+- **Programming Languages:** Python, Mojo, JavaScript, R, SQL, Typescript, (some) Rust
+- **Frameworks & Libraries:** TensorFlow, PyTorch, HuggingFace, OpenCV, Streamlit, Scenic, NextJs, React
+- **Tools:** Git, Docker, Jupyter, Visual Studio Code, Cursor, Codex, Claude Code
 - **Other:** Data Analysis, Machine Learning, Computer Vision, Natural Language Processing, Cloud Computing, Social Sciences
 
 ## 📂 Projects
