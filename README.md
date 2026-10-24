@@ -8,17 +8,18 @@ Hi! I'm Morgan, a passionate self-starter with a focus on creating/building thin
 
 ## 🌟 About Me
 
-- 🔭 I’m currently working on advanced deep learning techniques and exploring innovative methods in video summarization and dense video captioning, including projects that use AI/ML and computational creativity.
+- 🔭 I’m building **Inkwell**, an AI-native writing platform, and **AdSights**, a home for analytics tools and resources. My interests also span video summarization, dense video captioning, and computational creativity.
 - 🌱 I’m currently learning more about Mojo/MAX and particularly interested in the future of the language's development.
 - 👯 I’m looking to collaborate on projects that push the boundaries of AI/ML, particularly those involving challenging-to-replicate aspects of human cognition.
 - 💬 Ask me about AI, machine learning, computer vision, data analysis, advertising, marketing, content creation, storytelling, and more.
 
 ## 📈 Skills
 
-- **Programming Languages:** Python, Mojo, JavaScript, R, SQL, Typescript, (some) Rust
-- **Frameworks & Libraries:** TensorFlow, PyTorch, HuggingFace, OpenCV, Streamlit, Scenic, NextJs, React
-- **Tools:** Git, Docker, Jupyter, Visual Studio Code, Cursor, Codex, Claude Code
-- **Other:** Data Analysis, Machine Learning, Computer Vision, Natural Language Processing, Cloud Computing, Social Sciences
+- **Programming Languages:** Python, Mojo, JavaScript, TypeScript, R, SQL, Rust (some)
+- **Frameworks & Libraries:** React, Next.js, TipTap/ProseMirror, tRPC, Drizzle ORM, Tauri, Expo, TensorFlow, PyTorch, Hugging Face, OpenCV, Streamlit, Scenic
+- **Tools:** Git, Docker, Jupyter, Visual Studio Code, Cursor, Codex, Claude Code, pnpm
+- **Runtime & Data:** Node.js, SQLite, Turso
+- **Other:** Data Analysis, Machine Learning, Computer Vision, Natural Language Processing, Cloud Computing, Social Sciences, Full-Stack Development, AI-Assisted Development, Content Marketing, Technical Writing
 
 ## 📂 Projects
 
@@ -37,15 +38,23 @@ Inkwell is an AI-native writing platform: **Plot** for screenwriting and **Canva
 
 - [Explore Inkwell](https://www.inkwell.software/?utm_source=github&utm_medium=referral&utm_campaign=personal_profile&utm_content=inkwell_website) — learn about the writing platform.
 - [Discover Plot for screenwriting](https://www.inkwell.software/plot?utm_source=github&utm_medium=referral&utm_campaign=personal_profile&utm_content=inkwell_plot) — work with scenes, characters, dialogue, and parallel takes.
+- [Read the Inkwell blog](https://www.inkwell.software/blog?utm_source=github&utm_medium=referral&utm_campaign=personal_profile&utm_content=inkwell_project_blog) — articles on writing and the creative process.
+- [Browse Inkwell resources](https://www.inkwell.software/resources?utm_source=github&utm_medium=referral&utm_campaign=personal_profile&utm_content=inkwell_resources) — explore writing resources.
+- [Explore writing tools](https://www.inkwell.software/tools?utm_source=github&utm_medium=referral&utm_campaign=personal_profile&utm_content=inkwell_tools), [browse templates](https://www.inkwell.software/templates?utm_source=github&utm_medium=referral&utm_campaign=personal_profile&utm_content=inkwell_templates), or [look up terms in the glossary](https://www.inkwell.software/glossary?utm_source=github&utm_medium=referral&utm_campaign=personal_profile&utm_content=inkwell_glossary).
 - [Visit the Inkwell help center](https://www.inkwell.software/help?utm_source=github&utm_medium=referral&utm_campaign=personal_profile&utm_content=inkwell_help) — guides and support.
 
 <!-- Project-link attribution: utm_source=github; utm_medium=referral;
 utm_campaign=personal_profile; utm_content identifies the project and placement.
 Keep values lowercase and stable so analytics remain comparable over time. -->
 
-## 📚 Blog & Articles
+## 📚 Blog & Resources
+
+I also work on the content around these products: articles, educational resources, and practical tools that help people discover and use them.
 
 - [AdSights blog: data analysis, trends, and practical resources](https://adsights.ai/blog?utm_source=github&utm_medium=referral&utm_campaign=personal_profile&utm_content=adsights_articles_blog).
+
+- [Inkwell blog: writing and the creative process](https://www.inkwell.software/blog?utm_source=github&utm_medium=referral&utm_campaign=personal_profile&utm_content=inkwell_articles_blog).
+- [Inkwell resource library](https://www.inkwell.software/resources?utm_source=github&utm_medium=referral&utm_campaign=personal_profile&utm_content=inkwell_articles_resources) — writing resources, tools, and templates.
 
 ## 📫 Connect with Me
 
