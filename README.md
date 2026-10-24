@@ -22,23 +22,30 @@ Hi! I'm Morgan, a passionate self-starter with a focus on creating/building thin
 
 ## 📂 Projects
 
-### AdSights
-AdSights is a comprehensive platform that offers various tools and resources for data analysis and insights generation. It includes analytics tools, visualization resources, and a dedicated blog that provides valuable articles and insights on data trends and best practices.
+### [AdSights — analytics tools and resources](https://adsights.ai/?utm_source=github&utm_medium=referral&utm_campaign=personal_profile&utm_content=adsights_heading)
 
-Here are some tools and resources built on [AdSights.ai](https://adsights.ai):
+AdSights brings together tools and resources for data analysis, visualization, and insights generation.
 
-- **Resource Center**: [adsights.ai/resources](https://adsights.ai/resources)
-- **Blog**: [adsights.ai/blog](https://adsights.ai/blog)
-- **Interactive Tools**:
-  - [Calculators](https://adsights.ai/resources/tools/calculators)
-  - [Quizzes](https://adsights.ai/resources/tools/quizzes)
-  - [Generators](https://adsights.ai/resources/tools/generators)
+- [Explore AdSights](https://adsights.ai/?utm_source=github&utm_medium=referral&utm_campaign=personal_profile&utm_content=adsights_website) — discover the platform.
+- [Browse the resource center](https://adsights.ai/resources?utm_source=github&utm_medium=referral&utm_campaign=personal_profile&utm_content=adsights_resources) — find practical resources for analysis.
+- [Use the calculators](https://adsights.ai/resources/tools/calculators?utm_source=github&utm_medium=referral&utm_campaign=personal_profile&utm_content=adsights_calculators), [take a quiz](https://adsights.ai/resources/tools/quizzes?utm_source=github&utm_medium=referral&utm_campaign=personal_profile&utm_content=adsights_quizzes), or [try the generators](https://adsights.ai/resources/tools/generators?utm_source=github&utm_medium=referral&utm_campaign=personal_profile&utm_content=adsights_generators).
+- [Read the AdSights blog](https://adsights.ai/blog?utm_source=github&utm_medium=referral&utm_campaign=personal_profile&utm_content=adsights_project_blog) — articles on data trends and best practices.
 
-### Coming Soon!
+### [Inkwell — writing software with version control and AI](https://www.inkwell.software/?utm_source=github&utm_medium=referral&utm_campaign=personal_profile&utm_content=inkwell_heading)
+
+Inkwell is an AI-native writing platform: **Plot** for screenwriting and **Canvas** for structured documents. It brings version control, collaboration, and AI assistance into the writing process, with proposed AI edits that writers review before accepting.
+
+- [Explore Inkwell](https://www.inkwell.software/?utm_source=github&utm_medium=referral&utm_campaign=personal_profile&utm_content=inkwell_website) — learn about the writing platform.
+- [Discover Plot for screenwriting](https://www.inkwell.software/plot?utm_source=github&utm_medium=referral&utm_campaign=personal_profile&utm_content=inkwell_plot) — work with scenes, characters, dialogue, and parallel takes.
+- [Visit the Inkwell help center](https://www.inkwell.software/help?utm_source=github&utm_medium=referral&utm_campaign=personal_profile&utm_content=inkwell_help) — guides and support.
+
+<!-- Project-link attribution: utm_source=github; utm_medium=referral;
+utm_campaign=personal_profile; utm_content identifies the project and placement.
+Keep values lowercase and stable so analytics remain comparable over time. -->
 
 ## 📚 Blog & Articles
 
-- Explore insights and updates on our work including the AdSights project in our [Blog](https://adsights.ai/blog).
+- [AdSights blog: data analysis, trends, and practical resources](https://adsights.ai/blog?utm_source=github&utm_medium=referral&utm_campaign=personal_profile&utm_content=adsights_articles_blog).
 
 ## 📫 Connect with Me
 
@@ -60,4 +67,4 @@ For any inquiries, feel free to reach out via email [COMING SOON] or connect wit
 
 ---
 
-*This README was last updated on 09/28/2025*
+*This README was last updated on 10/24/2026*
